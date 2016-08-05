@@ -1,0 +1,27 @@
+_repo: The-Story-of-Sugar_7803
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bassett, Sara Ware
+    birthdate: 1872
+    deathdate: 1968
+    gutenberg_agent_id: '2534'
+    url: http://www.gutenberg.org/2009/agents/2534
+    wikipedia: http://en.wikipedia.org/wiki/Sara_Ware_Bassett
+description: ''
+gutenberg_bookshelf: Children's Instructional Books
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7803'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TP'
+- !lcsh 'Sugar -- Juvenile literature'
+- !lcc 'PZ'
+- GITenberg
+title: The Story of Sugar
+url: http://www.gutenberg.org/ebooks/7803
